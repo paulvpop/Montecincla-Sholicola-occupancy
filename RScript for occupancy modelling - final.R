@@ -7,7 +7,7 @@
 #Over 350 different models were run in the co-occurrence and single-species models...
 #...at that time. However, the analyses is redone here (in 2024) due to overfitting...
 #...models and issues surrounding large SE and 95% CI errors during the 2018 analyses.
-#This script will be very useful for those attempting to do single season single or 
+#This script will be very useful for those attempting to do single-season single- or 
 #...two-species occupancy modelling.
 #The pre-print of the paper is available here: https://doi.org/10.1101/2024.04.17.589990
 
